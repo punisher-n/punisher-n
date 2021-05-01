@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Django
 - 💬 Ask me about Laravel or any Web development Staff
-<!--
-- 📫 How to reach me: ...
+
+- 📫 How to reach me: emilianngatunga.dev@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
