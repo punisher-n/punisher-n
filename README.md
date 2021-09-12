@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Netflix Clone Uisng React
+- 🔭 I’m currently working on Angular, Laravel, React
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Django
