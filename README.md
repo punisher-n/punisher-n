@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Angular, Laravel, React
+- 🔭 I’m currently working on Angular, Laravel, React ,Yii
 - 🌱 I’m currently learning React
 - 🤔 I’m looking for help with React and Node js
 - 💬 Ask me about Laravel or any Web development Staff
